@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('layout.plantilla', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp\htdocs\TipTop\resources\views/clientes/index.blade.php ENDPATH**/ ?>
